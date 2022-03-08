@@ -1,0 +1,11 @@
+site_name: napari-hide-layer-test
+site_description: To show a bug
+site_author: Karol Gotkowski
+
+theme: readthedocs
+
+
+repo_url: https://github.com/Karol-G/napari-hide-layer-test
+
+pages:
+- Home: index.md
